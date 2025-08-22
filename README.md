@@ -3,12 +3,13 @@
 
 ---
 
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
 ---
 
