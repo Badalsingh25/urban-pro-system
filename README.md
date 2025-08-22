@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="YOUR_VIDEO_LINK"><img src="https://img.shields.io/badge/🎥-Project%20Video-red" /></a>
-  <a href="YOUR_REPORT_LINK"><img src="https://img.shields.io/badge/📄-Project%20Report-blue" /></a>
-  <a href="YOUR_PPT_LINK"><img src="https://img.shields.io/badge/📊-Project%20PPT-purple" /></a>
+  <a href="resources/Urban_Pro_System_Report.pdf"><img src="https://img.shields.io/badge/📄-Project%20Report-blue" /></a>
+  <a href="resources/Urban_Pro_System_Presentation.pptx"><img src="https://img.shields.io/badge/📊-Project%20PPT-purple" /></a>
 </p> 
 
 ---
