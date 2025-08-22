@@ -81,23 +81,23 @@ Other        6.0%  ██░░░░░░░░░░░░░░░░░░�
 
 ---
 
+---
+
 ## 🤝 Contributing
 
-Contributions are welcome!  
-If you’d like to contribute, feel free to **fork** the repo and submit a **pull request**.
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/Badalsingh25/urban-pro-system/fork)
+[![Fork](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/Badalsingh25/urban-pro-system/fork)
+[![Pull Request](https://img.shields.io/badge/Pull%20Request-orange?style=for-the-badge&logo=git)](https://github.com/Badalsingh25/urban-pro-system/pulls)
 
 ---
 
-## 📩 Contact
-
-<div align="center">
+## 📩 Contact  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badalkusingh8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badalsingh25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badal-singh-767911333/)
 
-</div>
-
 ---
 
 ⭐ If you like this project, don’t forget to **star the repo**! ⭐
+
