@@ -13,9 +13,11 @@
 
 ---
 
-[![Project Video](https://img.shields.io/badge/🎥-Project%20Video-red)](YOUR_VIDEO_LINK)  
-[![Project Report](https://img.shields.io/badge/📄-Project%20Report-blue)](YOUR_REPORT_LINK)  
-[![Project PPT](https://img.shields.io/badge/📊-Project%20PPT-purple)](YOUR_PPT_LINK)   
+<p align="center">
+  <a href="YOUR_VIDEO_LINK"><img src="https://img.shields.io/badge/🎥-Project%20Video-red" /></a>
+  <a href="YOUR_REPORT_LINK"><img src="https://img.shields.io/badge/📄-Project%20Report-blue" /></a>
+  <a href="YOUR_PPT_LINK"><img src="https://img.shields.io/badge/📊-Project%20PPT-purple" /></a>
+</p> 
 
 ---
 
@@ -77,21 +79,29 @@ HTML         32.0% ████████░░░░░░░░░░░░�
 CSS          15.0% ████░░░░░░░░░░░░░░░░░░  
 Other        6.0%  ██░░░░░░░░░░░░░░░░░░░░  
 
+---
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions are welcome! 🚀
+Contributions are welcome!  
+If you’d like to contribute, feel free to **fork** the repo and submit a **pull request**.
 
-Fork the repo
+---
 
-Create a feature branch
+## 📩 Contact
 
-Submit a pull request
+<p align="center">
+  <a href="mailto:badalkusingh8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://github.com/yourusername](https://github.com/Badalsingh25)">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/badal-singh-767911333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📩 Contact
+---
 
-📧 Email: badalkusingh8@gmail.com
-
-🌐 GitHub: 
-
-⭐ If you like this project, don’t forget to star the repo! ⭐
+⭐ If you like this project, don’t forget to **star the repo**! ⭐
