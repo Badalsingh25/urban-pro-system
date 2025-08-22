@@ -14,7 +14,7 @@
 
 [![Project Video](https://img.shields.io/badge/🎥-Project%20Video-red)](YOUR_VIDEO_LINK)  
 [![Project Report](https://img.shields.io/badge/📄-Project%20Report-blue)](YOUR_REPORT_LINK)  
-[![Project PPT](https://img.shields.io/badge/📊-Project%20PPT-purple)](YOUR_PPT_LINK)  
+[![Project PPT](https://img.shields.io/badge/📊-Project%20PPT-purple)](YOUR_PPT_LINK)   
 
 ---
 
